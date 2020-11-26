@@ -1,9 +1,9 @@
 # ML-Visualization
+Mini Project on Data Visualization using Australia Fire Dataset.
+
 Data Visualization on Australian Fire Dataset 
 
 Plotting the intensity of Australian wildfires using matplotlib
-
-Mini Project on Data Visualization using Australia Fire Dataset.
 
 The data can be found on: https://www.kaggle.com/carlosparadis/fires-from-space-australia-and-new-zeland
 
